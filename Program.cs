@@ -17,8 +17,10 @@ builder.Services.AddScoped<ISaleMasterRepository, SaleMasterRepository>();
 builder.Services.AddScoped<ISaleDetailsRepository, SaleDetailsRepository>();
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
-builder.Services.AddDbContext<InventoryDbContext>(options => options.UseSqlServer(
-builder.Configuration.GetConnectionString("InventoryConnectionString")));
+//builder.Services.AddDbContext<InventoryDbContext>(options => options.UseSqlServer(
+//builder.Configuration.GetConnectionString("InventoryConnectionString")));
+string? _dbConnection = builder.Configuration.GetConnectionString("InventoryConnectionString");
+builder.Services.AddDbContext<InventoryDbContext>(options => options.UseMySql(_dbConnection, ServerVersion.AutoDetect(_dbConnection)));
 
 var app = builder.Build();
 

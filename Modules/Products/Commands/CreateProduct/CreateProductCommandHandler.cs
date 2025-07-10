@@ -33,7 +33,7 @@ namespace Inventory.Modules.Products.Commands.CreateProduct
                     };
                     var response = await _unitOfWork.ProductRepository.AddAsync(createRequest);
                     await _unitOfWork.Save();
-                    return response.ProductId;
+                    return(Int32) response.ProductId;
                 }
             }
             catch (Exception ex)

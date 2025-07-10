@@ -27,7 +27,7 @@ namespace Inventory.Modules.Sales.Query.SalesReport
                     var getSaleDetails = (await _unitOfWork.SaleDetailsRepository.ListAllAsync()).
                         Where(d => saleMasterId.Contains(d.SaleMasterId)).ToList();
 
-                    result.TotalRevenue = getSaleDetails.Sum(x => x.Price) - result.TotalSales;
+                    result.TotalRevenue = getSaleDetails.Sum(x =>(decimal) x.Price) - result.TotalSales;
                 }
                 return result;
             }
