@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Personal\\Project\\Inventory System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Personal\\Project\\Inventory System\\Migrations\\20250710193948_CreateInitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250710193948_CreateInitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\migrations\\20250710193948_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:migrations\\20250710193948_createinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\entities\\salemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:entities\\salemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "20250710193948_CreateInitial.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Migrations\\20250710193948_CreateInitial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250710193948_CreateInitial.cs",
@@ -137,27 +137,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Personal\\Project\\Inventory System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T19:38:10.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InventoryDbContext.cs",
-              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\InventoryDbContext.cs",
-              "RelativeDocumentMoniker": "InventoryDbContext.cs",
-              "ToolTip": "D:\\Personal\\Project\\Inventory System\\InventoryDbContext.cs",
-              "RelativeToolTip": "InventoryDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T19:37:44.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductListResponse.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Products\\Query\\GetProductList\\ProductListResponse.cs",
               "RelativeDocumentMoniker": "Modules\\Products\\Query\\GetProductList\\ProductListResponse.cs",
@@ -169,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Product.cs",
@@ -181,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductListByBadcodeResponse.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Products\\Query\\GetProductListByBadcode\\ProductListByBadcodeResponse.cs",
               "RelativeDocumentMoniker": "Modules\\Products\\Query\\GetProductListByBadcode\\ProductListByBadcodeResponse.cs",
@@ -193,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GetProductListQueryHandler.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Products\\Query\\GetProductList\\GetProductListQueryHandler.cs",
               "RelativeDocumentMoniker": "Modules\\Products\\Query\\GetProductList\\GetProductListQueryHandler.cs",
@@ -205,7 +192,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T18:39:42.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryDbContext.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\InventoryDbContext.cs",
+              "RelativeToolTip": "InventoryDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:37:44.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "GetProductListByBadcodeQueryHandler.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Products\\Query\\GetProductListByBadcode\\GetProductListByBadcodeQueryHandler.cs",
               "RelativeDocumentMoniker": "Modules\\Products\\Query\\GetProductListByBadcode\\GetProductListByBadcodeQueryHandler.cs",
@@ -217,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CustomerInfo.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Entities\\CustomerInfo.cs",
               "RelativeDocumentMoniker": "Entities\\CustomerInfo.cs",
@@ -229,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GetSalesReportQueryHandler.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\GetSalesReportQueryHandler.cs",
               "RelativeDocumentMoniker": "Modules\\Sales\\Query\\SalesReport\\GetSalesReportQueryHandler.cs",
@@ -238,18 +250,6 @@
               "ViewState": "AgIAAA4AAAAAAAAAAIAwwB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T18:14:31.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Personal\\Project\\Inventory System\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T18:39:42.372Z"
             },
             {
               "$type": "Document",
@@ -277,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "SaleMaster.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Entities\\SaleMaster.cs",
               "RelativeDocumentMoniker": "Entities\\SaleMaster.cs",
