@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\Project\\Inventory System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\sales\\query\\salesreport\\getsalesreportqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\sales\\query\\salesreport\\getsalesreportqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\sales\\query\\salesreport\\getsalesreportquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\sales\\query\\salesreport\\getsalesreportquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\customerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\customerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\sales\\query\\salesreport\\salesreportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\sales\\query\\salesreport\\salesreportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\sales\\command\\createsale\\createsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\sales\\command\\createsale\\createsalecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\entities\\salemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:entities\\salemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\sales\\command\\createsale\\createsalecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\sales\\command\\createsale\\createsalecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\salesdetails\\command\\createsalesdetails\\createsalesdetailscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\salesdetails\\command\\createsalesdetails\\createsalesdetailscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA0wF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:27:05.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetSalesReportQueryHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\GetSalesReportQueryHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\Sales\\Query\\SalesReport\\GetSalesReportQueryHandler.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\GetSalesReportQueryHandler.cs*",
+              "RelativeToolTip": "Modules\\Sales\\Query\\SalesReport\\GetSalesReportQueryHandler.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:14:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesReportResponse.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\SalesReportResponse.cs",
+              "RelativeDocumentMoniker": "Modules\\Sales\\Query\\SalesReport\\SalesReportResponse.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\SalesReportResponse.cs",
+              "RelativeToolTip": "Modules\\Sales\\Query\\SalesReport\\SalesReportResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:06:54.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerInfoController.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\CustomerInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerInfoController.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\CustomerInfoController.cs",
+              "RelativeToolTip": "Controllers\\CustomerInfoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:53:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSaleCommand.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Command\\CreateSale\\CreateSaleCommand.cs",
+              "RelativeDocumentMoniker": "Modules\\Sales\\Command\\CreateSale\\CreateSaleCommand.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Command\\CreateSale\\CreateSaleCommand.cs",
+              "RelativeToolTip": "Modules\\Sales\\Command\\CreateSale\\CreateSaleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:36:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetSalesReportQuery.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\GetSalesReportQuery.cs",
+              "RelativeDocumentMoniker": "Modules\\Sales\\Query\\SalesReport\\GetSalesReportQuery.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Query\\SalesReport\\GetSalesReportQuery.cs",
+              "RelativeToolTip": "Modules\\Sales\\Query\\SalesReport\\GetSalesReportQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T18:13:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaleMasterController.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\SaleMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaleMasterController.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\SaleMasterController.cs",
+              "RelativeToolTip": "Controllers\\SaleMasterController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:53:17.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleMaster.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Entities\\SaleMaster.cs",
+              "RelativeDocumentMoniker": "Entities\\SaleMaster.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Entities\\SaleMaster.cs",
+              "RelativeToolTip": "Entities\\SaleMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:35:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSaleCommandHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Command\\CreateSale\\CreateSaleCommandHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\Sales\\Command\\CreateSale\\CreateSaleCommandHandler.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\Sales\\Command\\CreateSale\\CreateSaleCommandHandler.cs",
+              "RelativeToolTip": "Modules\\Sales\\Command\\CreateSale\\CreateSaleCommandHandler.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:36:54.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateSalesDetailsCommand.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\SalesDetails\\Command\\CreateSalesDetails\\CreateSalesDetailsCommand.cs",
+              "RelativeDocumentMoniker": "Modules\\SalesDetails\\Command\\CreateSalesDetails\\CreateSalesDetailsCommand.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\SalesDetails\\Command\\CreateSalesDetails\\CreateSalesDetailsCommand.cs",
+              "RelativeToolTip": "Modules\\SalesDetails\\Command\\CreateSalesDetails\\CreateSalesDetailsCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:41:32.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

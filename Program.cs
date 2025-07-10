@@ -12,6 +12,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<ICustomerInfoRepository, CustomerInfoRepository>();
+builder.Services.AddScoped<ISaleMasterRepository, SaleMasterRepository>();
+builder.Services.AddScoped<ISaleDetailsRepository, SaleDetailsRepository>();
 
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(Program).Assembly));
 builder.Services.AddDbContext<InventoryDbContext>(options => options.UseSqlServer(

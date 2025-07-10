@@ -1,5 +1,103 @@
 [
   {
+    "ContainingType": "Inventory.Controllers.CustomerInfoController",
+    "Method": "Post",
+    "RelativePath": "api/CustomerInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCustomerInfoCommand",
+        "Type": "Inventory.Modules.CustomerInfos.Command.CreateCustomerInfo.CreateCustomerInfoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Inventory.Controllers.CustomerInfoController",
+    "Method": "Put",
+    "RelativePath": "api/CustomerInfo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateCustomerInfoCommand",
+        "Type": "Inventory.Modules.CustomerInfos.Command.UpdateCustomerInfo.UpdateCustomerInfoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Inventory.Controllers.CustomerInfoController",
+    "Method": "Get",
+    "RelativePath": "api/CustomerInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Inventory.Modules.CustomerInfos.Query.GetCustomerInfoList.CustomerInfoListResponse, Inventory, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Inventory.Controllers.CustomerInfoController",
+    "Method": "Delete",
+    "RelativePath": "api/CustomerInfo/CustomerId",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CustomerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Inventory.Controllers.ProductController",
     "Method": "Post",
     "RelativePath": "api/Product",
@@ -123,5 +221,63 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Inventory.Controllers.SaleMasterController",
+    "Method": "Post",
+    "RelativePath": "api/SaleMaster",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createSaleCommand",
+        "Type": "Inventory.Modules.Sales.Command.CreateSale.CreateSaleCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Inventory.Controllers.SaleMasterController",
+    "Method": "GetSalesReportResponse",
+    "RelativePath": "api/SaleMaster/GetSalesReportResponse{fromDate}/{toDate}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fromDate",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "toDate",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Inventory.Modules.Sales.Query.SalesReport.SalesReportResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetSalesReportResponse"
   }
 ]
