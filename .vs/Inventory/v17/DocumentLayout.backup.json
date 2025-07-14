@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\customerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\customerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\customerinfos\\query\\getcustomerinfolist\\getcustomerinfolistquesryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\customerinfos\\query\\getcustomerinfolist\\getcustomerinfolistquesryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\customerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\customerinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\userinfos\\command\\createlogin\\createlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\userinfos\\command\\createlogin\\createlogincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\modules\\customerinfos\\command\\createcustomerinfo\\createcustomerinfocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:modules\\customerinfos\\command\\createcustomerinfo\\createcustomerinfocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|solutionrelative:controllers\\salemastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA52A583-F232-4CE2-A898-1D040C5E8535}|Inventory.csproj|d:\\personal\\project\\inventory system\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,59 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetCustomerInfoListQuesryHandler.cs",
-              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
-              "RelativeDocumentMoniker": "Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
-              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
-              "RelativeToolTip": "Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:54:55.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:42:07.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SaleMasterController.cs",
-              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\SaleMasterController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SaleMasterController.cs",
-              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\SaleMasterController.cs",
-              "RelativeToolTip": "Controllers\\SaleMasterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:41:55.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerInfoController.cs",
-              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\CustomerInfoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerInfoController.cs",
-              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\CustomerInfoController.cs",
-              "RelativeToolTip": "Controllers\\CustomerInfoController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwEMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:41:15.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -134,18 +86,17 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAowBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:41:08.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T08:41:08.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Personal\\Project\\Inventory System\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-14T08:11:26.712Z",
               "EditorCaption": ""
@@ -158,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Personal\\Project\\Inventory System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T08:01:59.765Z",
               "EditorCaption": ""
@@ -171,14 +122,76 @@
               "RelativeDocumentMoniker": "Modules\\UserInfos\\Command\\CreateLogin\\CreateLoginCommandHandler.cs",
               "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\UserInfos\\Command\\CreateLogin\\CreateLoginCommandHandler.cs",
               "RelativeToolTip": "Modules\\UserInfos\\Command\\CreateLogin\\CreateLoginCommandHandler.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T07:28:30.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "GetCustomerInfoListQuesryHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
+              "RelativeToolTip": "Modules\\CustomerInfos\\Query\\GetCustomerInfoList\\GetCustomerInfoListQuesryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:54:55.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerInfoController.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\CustomerInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerInfoController.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\CustomerInfoController.cs",
+              "RelativeToolTip": "Controllers\\CustomerInfoController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:41:15.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleMasterController.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\SaleMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SaleMasterController.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\SaleMasterController.cs",
+              "RelativeToolTip": "Controllers\\SaleMasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:41:55.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:42:07.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerInfoCommandHandler.cs",
+              "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\CustomerInfos\\Command\\CreateCustomerInfo\\CreateCustomerInfoCommandHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\CustomerInfos\\Command\\CreateCustomerInfo\\CreateCustomerInfoCommandHandler.cs",
+              "ToolTip": "D:\\Personal\\Project\\Inventory System\\Modules\\CustomerInfos\\Command\\CreateCustomerInfo\\CreateCustomerInfoCommandHandler.cs",
+              "RelativeToolTip": "Modules\\CustomerInfos\\Command\\CreateCustomerInfo\\CreateCustomerInfoCommandHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:07:25.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CreateLoginCommand.cs",
               "DocumentMoniker": "D:\\Personal\\Project\\Inventory System\\Modules\\UserInfos\\Command\\CreateLogin\\CreateLoginCommand.cs",
               "RelativeDocumentMoniker": "Modules\\UserInfos\\Command\\CreateLogin\\CreateLoginCommand.cs",
@@ -186,8 +199,7 @@
               "RelativeToolTip": "Modules\\UserInfos\\Command\\CreateLogin\\CreateLoginCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T07:27:41.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T07:27:41.08Z"
             }
           ]
         }
