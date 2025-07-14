@@ -329,3 +329,4 @@ D:\Personal\Project\Inventory System\bin\Debug\net8.0\runtimes\browser\lib\net8.
 D:\Personal\Project\Inventory System\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
 D:\Personal\Project\Inventory System\bin\Debug\net8.0\MySqlConnector.dll
 D:\Personal\Project\Inventory System\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Personal\Project\Inventory System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

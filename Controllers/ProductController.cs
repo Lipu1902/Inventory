@@ -4,6 +4,7 @@ using Inventory.Modules.Products.Commands.UpdateProduct;
 using Inventory.Modules.Products.Query.GetProductList;
 using Inventory.Modules.Products.Query.GetProductListByBadcode;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,6 +12,7 @@ namespace Inventory.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class ProductController : ControllerBase
     {
         private readonly IMediator _mediator;

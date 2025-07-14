@@ -3,6 +3,7 @@ using Inventory.Modules.Products.Query.GetProductListByBadcode;
 using Inventory.Modules.Sales.Command.CreateSale;
 using Inventory.Modules.Sales.Query.SalesReport;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,6 +11,7 @@ namespace Inventory.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class SaleMasterController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -31,8 +33,8 @@ namespace Inventory.Controllers
                 return ("Could Not Add Sale");
             }
         }
-        [HttpGet("GetSalesReportResponse{fromDate}/{toDate}", Name = "GetSalesReportResponse")]
-        public async Task<ActionResult<SalesReportResponse>> GetSalesReportResponse(DateTime fromDate, DateTime toDate)
+        [HttpGet("GetSalesReport{fromDate}/{toDate}", Name = "GetSalesReport")]
+        public async Task<ActionResult<SalesReportResponse>> GetSalesReport(DateTime fromDate, DateTime toDate)
         {
             try
             {

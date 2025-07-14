@@ -98,6 +98,32 @@
     ]
   },
   {
+    "ContainingType": "Inventory.Controllers.LoginController",
+    "Method": "Post",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createLoginCommand",
+        "Type": "Inventory.Modules.UserInfos.Command.CreateLogin.CreateLoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "Inventory.Controllers.ProductController",
     "Method": "Post",
     "RelativePath": "api/Product",
@@ -250,8 +276,8 @@
   },
   {
     "ContainingType": "Inventory.Controllers.SaleMasterController",
-    "Method": "GetSalesReportResponse",
-    "RelativePath": "api/SaleMaster/GetSalesReportResponse{fromDate}/{toDate}",
+    "Method": "GetSalesReport",
+    "RelativePath": "api/SaleMaster/GetSalesReport{fromDate}/{toDate}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -278,6 +304,6 @@
         "StatusCode": 200
       }
     ],
-    "EndpointName": "GetSalesReportResponse"
+    "EndpointName": "GetSalesReport"
   }
 ]

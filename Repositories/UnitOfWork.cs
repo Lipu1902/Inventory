@@ -9,13 +9,15 @@ namespace Inventory.Repositories
         private readonly ICustomerInfoRepository _customerInfoRepository;
         private readonly ISaleMasterRepository _saleMasterRepository;
         private readonly ISaleDetailsRepository _saleDetailsRepository;
-        public UnitOfWork(InventoryDbContext context, IProductRepository productRepository, ICustomerInfoRepository customerInfoRepository, ISaleMasterRepository saleMasterRepository, ISaleDetailsRepository saleDetailsRepository)
+        private readonly IUserInfoRepository _userInfoRepository;
+        public UnitOfWork(InventoryDbContext context, IProductRepository productRepository, ICustomerInfoRepository customerInfoRepository, ISaleMasterRepository saleMasterRepository, ISaleDetailsRepository saleDetailsRepository, IUserInfoRepository userInfoRepository)
         {
             _context = context;
             _productRepository = productRepository;
             _customerInfoRepository = customerInfoRepository;
             _saleMasterRepository = saleMasterRepository;
             _saleDetailsRepository = saleDetailsRepository;
+            _userInfoRepository = userInfoRepository;
         }
         public IProductRepository ProductRepository => _productRepository??new ProductRepository(_context);
 
@@ -24,6 +26,8 @@ namespace Inventory.Repositories
         public ISaleMasterRepository SaleMasterRepository => _saleMasterRepository??new SaleMasterRepository(_context);
 
         public ISaleDetailsRepository SaleDetailsRepository => _saleDetailsRepository??new SaleDetailsRepository(_context);
+
+        public IUserInfoRepository UserInfoRepository => _userInfoRepository??new UserInfoRepository(_context);
 
         public void Dispose()
         {
